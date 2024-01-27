@@ -1,4 +1,3 @@
-Aqui está o README adaptado com base no código fornecido:
 
 # Sistema de Gestão de Investimentos
 
@@ -35,7 +34,7 @@ Para compilar e executar o sistema, siga estas etapas:
 Contribuições para este projeto são bem-vindas! Sinta-se à vontade para bifurcar este repositório, fazer suas alterações e enviar uma solicitação de pull. No entanto, por favor, não copie sem permissão.
 
 ## Autor
-- Desenvolvedor: [Nome do Desenvolvedor]
+- Desenvolvedor: André Antônio da Silva Queiroz
   - [LinkedIn](https://www.linkedin.com/)
   - [GitHub](https://github.com/)
 
